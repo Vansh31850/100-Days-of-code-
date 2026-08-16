@@ -12,7 +12,7 @@ int main() {
     if (num > 0) {
         printf("Positive\n");
     } else {
-        // This if-else block is nested inside the outer 'else' block
+  
         if (num < 0) {
             printf("Negative\n");
         } else {
